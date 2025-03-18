@@ -1,0 +1,6 @@
+langchain
+PYTHON-DOTENV
+langchain_community
+pypdf
+bs4
+arxiv
